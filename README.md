@@ -40,3 +40,5 @@ python main.py
 ### OpenAI API와 GPT 결제는 독립적
 - OpenAI 결제를 해야합니다.
 
+### 터미널
+- 터미널은 cmd 기준입니다.
